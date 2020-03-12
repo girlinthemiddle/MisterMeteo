@@ -34,7 +34,7 @@ PAM==0.4.2
 Parsley==1.2
 pbr==3.1.1
 pep8==1.7.1
-psutil==5.4.2
+psutil==5.6.6
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycairo==1.16.2
