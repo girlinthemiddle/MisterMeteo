@@ -58,7 +58,7 @@ texttable==0.9.1
 torbrowser-launcher==0.2.9
 Twisted==17.9.0
 txsocksx==0.0.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 websocket-client==0.44.0
 wxPython==3.0.2.0
