@@ -29,7 +29,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 mock==2.0.0
 mongoengine==0.16.3
-numpy==1.13.3
+numpy==1.22.0
 PAM==0.4.2
 Parsley==1.2
 pbr==3.1.1
